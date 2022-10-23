@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+echo 'This is a runner called 1, this is from the perf plugin'

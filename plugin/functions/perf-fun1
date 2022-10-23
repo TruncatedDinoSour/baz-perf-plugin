@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+_init_completion -s || return
+COMPREPLY=("hello")

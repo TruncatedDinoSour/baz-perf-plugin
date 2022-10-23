@@ -1,0 +1,5 @@
+#!/usr/bin/env sh
+
+set -e
+
+echo 'This command streches up to command10, this is for padding lol, I just want to see how performance is'
