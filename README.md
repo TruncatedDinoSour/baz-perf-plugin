@@ -1,3 +1,4 @@
+# This repository has been migrated to the self-hosted ari-web Forgejo instance: <https://git.ari.lt/ari/baz-perf-plugin>
 # Baz plugin: baz-perf-plugin
 
 > Baz plugin for testing baz performance (this is a plugin for internal testing of baz performance for development)
